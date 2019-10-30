@@ -10,3 +10,4 @@ uvod v git
 popravek 1
 popravek 2
 
+popravek 4

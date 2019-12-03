@@ -1,4 +1,4 @@
 # ROM
 
 Projektna naloga:
-Predstavil bom pravokotnik in kvadrat, njegove dolžine, ploščino,...različne formule, narisal v 2D...
+Predstavil bom kocko, prikazal jo bom na 3d grafu, izračun površine in prostornine in diagonal.

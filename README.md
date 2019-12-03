@@ -1,14 +1,4 @@
 # ROM
 
-nekaj sem dopisal 
-
-dopisal sem še eno vrstico
-
-uvod v git
-
-
-popravek 1
-popravek 2
-
-popravek 3
-popravek 4
+Projektna naloga
+Predstavila bom pravokotnik in kvadrat, njegove dolžine, ploščino,...različne formule, narisala v 2D...
